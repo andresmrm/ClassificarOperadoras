@@ -2,5 +2,5 @@ Este é um script em Python para celulares Symbian. Ao rodá-lo ele deve passar 
 
 ATENÇÃO!
 - Atualmente ele só classifica operadoras no estado de São Paulo
-- Os campos "Empresa" serão sobrescrevidos, logo as informações anteriores serão perdidas.
+- Os campos "Empresa" serão sobrescritos, logo as informações anteriores serão perdidas.
 - Faça backup dos seus contatos antes de rodar essa porcaria. "Nunca se sabe o que pode acontecer" - Fantasma (SC)
