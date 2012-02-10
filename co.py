@@ -66,7 +66,6 @@ cont = 0
 
 # Passa por todos os contatos identificando as operadoras
 for id in ids:
-    cont += 1
     contato = db[id]
     ops = ""
     for tipo in ['mobile_number', 'phone_number']:
@@ -89,5 +88,6 @@ for id in ids:
         else:
             contato.add_field('company_name', ops)
         contato.commit()
+        cont += 1
 
 print("Feito para %s contatos." % cont)

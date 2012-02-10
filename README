@@ -10,4 +10,4 @@ COMO USAR:
 - Caso ainda não tenha, instale Python no seu celular.
 - Baixe o script "co.py" e coloque em alguma pasta do seu celular.
 - Abra o interpretador Python no seu celular, selecione a opção de rodar um script, vá até a pasta onde você colocou "co.py" e selecione ele.
-- Se tudo deu certo ele deve escrever quantos contatos forão encontrados no seu celular.
+- Se tudo deu certo ele deve escrever quantos contatos forão identificados no seu celular.
