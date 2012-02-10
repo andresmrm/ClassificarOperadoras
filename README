@@ -1,4 +1,4 @@
-Este é um script em Python para celulares Symbian. Ao rodá-lo ele deve passar por todos os seus contatos classificando as operadoras de cada um. Quando você for ligar para alguém, a operadora estará no campo "empresa" do contato e será mais fácil saber se você tem disconto para ligar para essa pessoa ou não.
+Este é um script em Python para celulares Symbian. Ao rodá-lo ele deve passar por todos os seus contatos classificando as operadoras de cada um. Quando você for ligar para alguém, a operadora estará no campo "empresa" do contato e será mais fácil saber se você tem desconto para ligar para essa pessoa ou não.
 
 ATENÇÃO!
 - Atualmente ele só classifica operadoras no estado de São Paulo
