@@ -4,3 +4,10 @@ ATENÇÃO!
 - Atualmente ele só classifica operadoras no estado de São Paulo
 - Os campos "Empresa" serão sobrescritos, logo as informações anteriores serão perdidas.
 - Faça backup dos seus contatos antes de rodar essa porcaria. "Nunca se sabe o que pode acontecer" - Fantasma (SC)
+
+
+COMO USAR:
+- Caso ainda não tenha, instale Python no seu celular.
+- Baixe o script "co.py" e coloque em alguma pasta do seu celular.
+- Abra o interpretador Python no seu celular, selecione a opção de rodar um script, vá até a pasta onde você colocou "co.py" e selecione ele.
+- Se tudo deu certo ele deve escrever quantos contatos forão encontrados no seu celular.
